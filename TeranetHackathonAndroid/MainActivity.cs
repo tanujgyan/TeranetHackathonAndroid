@@ -16,7 +16,7 @@ using Newtonsoft.Json;
 using OxyPlot.Xamarin.Android;
 namespace TeranetHackathonAndroid
 {
-    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
+    [Activity(Label = "RealTime Monitoring Application", Theme = "@style/AppTheme", MainLauncher = true)]
     public class MainActivity : AppCompatActivity
     {
         ChartView chartView;
